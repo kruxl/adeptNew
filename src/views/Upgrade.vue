@@ -75,7 +75,7 @@
                     round
                     large
                     color="cyan"
-                  >Upgrade to Pro</v-btn>
+                  >Upgrade to Pro1</v-btn>
                 </td>
               </tr>
             </tbody>
